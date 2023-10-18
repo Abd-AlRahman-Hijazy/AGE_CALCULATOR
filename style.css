@@ -3,6 +3,7 @@
   margin: 0;
   font-family: monospace;
   box-sizing: border-box;
+  over-flow: hidden;
 }
 .container {
   width: 100%;
