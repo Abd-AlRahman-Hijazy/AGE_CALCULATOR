@@ -25,6 +25,7 @@
     padding-left: 10px;
     padding-top: 10px;
     line-height: 1.5;
+    font-size: 40px;
   }
 }
 .calculator h1 {
@@ -32,13 +33,7 @@
   text-shadow: -6px -5px 20px BLACK;
 }
 @media (max-width: 767px) {
-  .calculator {
-    width: 100%;
-    padding-left: 10px;
-    padding-top: 10px;
-    font-size: 40px;
-    line-height: 1.5;
-  }
+  
   .calculator h1 {
     font-size: 20px;
     text-shadow: -6px -5px 20px BLACK;
