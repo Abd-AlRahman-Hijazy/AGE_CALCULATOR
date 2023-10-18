@@ -21,6 +21,7 @@
 @media (max-width: 767px) {
   .calculator {
     width: 100%;
+    max-width: 90%; 
     padding-left: 10px;
     padding-top: 10px;
     line-height: 1.5;
